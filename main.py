@@ -7,17 +7,17 @@ PLAYLISTS = {
         "name": "Hardstyle",
         "uri": "spotify:playlist:1v2QdlbBYDkbWzvQjmAEP2"
     },
-    "2": {
+      "2": {
         "name": "Hyperpop",
-        "uri": "https://open.spotify.com/playlist/23I1HOHKYklVpkFlJTvlR2?si=e19f19f37fd44d61"
+        "uri": "spotify:playlist:23I1HOHKYklVpkFlJTvlR2"
     },
     "3": {
         "name": "Chill",
-        "uri": "https://open.spotify.com/playlist/4QMUf03FuxfX5L8vP2uHvR?si=5a6f423ce3bf41b5"
+        "uri": "spotify:playlist:4QMUf03FuxfX5L8vP2uHvR"
     },
     "4": {
         "name": "Sage",
-        "uri": "https://open.spotify.com/playlist/3jfQ52z0k6AyXCujgQsmK1?si=0b00891748774cf4"
+        "uri": "spotify:playlist:3jfQ52z0k6AyXCujgQsmK1"
     }
 }
 
